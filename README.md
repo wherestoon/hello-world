@@ -1,5 +1,5 @@
 # hello-world
-FirstTestingPage
+
 
 Hello humans
 I am exploring android with java and am swimmming through the sea of information out there.
